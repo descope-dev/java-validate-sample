@@ -21,4 +21,4 @@ try {
 ```
  
 ## Run test
-See src/test folder.
+Run `mvn test`
