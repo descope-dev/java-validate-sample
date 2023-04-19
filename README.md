@@ -1,5 +1,5 @@
 # java-validate-sample
-A simple package for JWT validation for Java, along with a test
+A simple package for Descope JWT validation for Java, along with a test
 
 ## Prerequisites 
 - Install [Java](https://www.java.com/en/download)
@@ -7,7 +7,7 @@ A simple package for JWT validation for Java, along with a test
 ## Quick start
 
 ```java
- var PROJECT_ID = "<Descope-Project-ID>";
+var PROJECT_ID = "<Descope-Project-ID>";
 var TEST_JWT = "<JWT>";
 var jwtValidation = new JwtValidation(PROJECT_ID);
 try {
